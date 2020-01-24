@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #545F54;
+}
+
+a {
+  color: #11999E;
+  margin: 0 50px 0 50px;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: .5rem;
+  color: #D3D3D3;
+  margin: 8rem auto 8rem auto;
+  width: 10%;
+}
+
+img {
+  margin-bottom: 1rem;
+}
+
+p {
+  color: #2F4F4F;
+  padding: 1rem 0 1rem 0;
+}
+
+.blue-sky {
+  background-color: #EAF6F6;
+}
+
+.bottomCloud {
+  margin-left: 0;
+  width: 20%;
+}
+
+.bottomCloudDiv {
+  margin: 0 15% 0 15%;
+  text-align: left;
+}
+
+.button {
+  background: linear-gradient(#66BFBF, #11999E);
+  border-radius: .5rem;
+  border: none;
+  height: 2rem;
+  margin: 5rem auto 5rem auto;
+  text-decoration: none;
+}
+
+.buttonText {
+  color: white;
+}
+
+.footer {
+  background-color: #66BFBF;
+  height: 5rem;
+  width: 100%;
+}
+
+.javaImg {
+  float: left;
+  margin-right: 30px;
+  width: 9rem;
+}
+
+.myName {
+  border: none;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+.myPicture {
+  position: relative;
+  left: 8rem;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 8rem;
+}
+
+.myPicture:hover {
+  width: 16rem;
+  height: 16rem;
+  border-radius: 8rem;
+}
+
+.myEvilPicture {
+  position: relative;
+  bottom: 15px;
+  right: 8.2rem;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 8rem;
+  opacity: 0;
+}
+
+.myEvilPicture:hover {
+  margin: 0;
+  position: relative;
+  bottom: 15px;
+  right: 8.2rem;
+  width: 16rem;
+  height: 16rem;
+  border-radius: 8rem;
+  opacity: 100%;
+}
+
+.mountain {
+  margin: auto;
+  width: 70%;
+}
+
+.personalDiscription {
+  margin: auto;
+  width: 70%;
+  line-height: 1.5;
+}
+
+.pythonImg {
+  float: right;
+  margin-right: 30px;
+  width: 8.5rem;
+}
+
+.skillDiscription {
+  clear: both;
+}
+
+.skill-row {
+  display: flow-root;
+  width: 50%;
+  margin: 0 auto 4rem auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.top {
+  background-color: #bbe1fa;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topCloud {
+  margin-top: 5%;
+  width: 20%;
+}
+
+.topCloudDiv {
+  margin: 0 15% 0 15%;
+  text-align: right;
+}
+
+.lastSkill {
+  margin-bottom: 0;
+}
